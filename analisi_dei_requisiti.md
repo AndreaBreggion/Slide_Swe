@@ -69,14 +69,14 @@ tipologie:
 * Vincolo= A
 * Prestazionale = P
 
-CODICE    DESCRIZIONE       IMPORTANZA      FONTE
+CODICE    DESCRIZIONE       IMPORTANZA      FONTE  
 
-RF1       autenticaz.       obbligatorio     CU1
-RF2       registraz.        obbligatorio     CU1.1
-RF3       rimozione         obbligatorio     CU2
-RF4       inserimento       obbligatorio     CU3
-RV1       usare python      desiderabile     Capitolato
-RQ1       pagamento cript.  obbligatorio     Capitolato
-RV2       file su github    obbligatorio     Decisione intern
+RF1       autenticaz.       obbligatorio     CU1  
+RF2       registraz.        obbligatorio     CU1.1  
+RF3       rimozione         obbligatorio     CU2  
+RF4       inserimento       obbligatorio     CU3  
+RV1       usare python      desiderabile     Capitolato  
+RQ1       pagamento cript.  obbligatorio     Capitolato  
+RV2       file su github    obbligatorio     Decisione intern  
 
 
